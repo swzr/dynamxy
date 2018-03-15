@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>SWZR</authors>
+    <licenseUrl>https://github.com/swzr/dynamxy/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/swzr/dynamxy</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>$description$</description>
+    <copyright>Copyright @ SWZR 2018</copyright>
+    <tags>Proxy, Dynamic Proxy, Intermediate Language</tags>
+  </metadata>
+</package>
